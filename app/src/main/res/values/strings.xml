@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn1">btn!</string>
+    <string name="btn2">btn2</string>
+    <string name="btn3">btn3</string>
+    <string name="btn4">btn4</string>
+    <string name="textAnswer">Answer</string>
+    <string name="selectAnswer">SelectAnswer</string>
+    <string name="Status">Status</string>
+    <string name="correct">Correct</string>
+    <string name="InCorrect">InCorrect</string>
+    <string name="nothing">test</string>
+    <string name="GameOver">Play Again</string>
+</resources>
